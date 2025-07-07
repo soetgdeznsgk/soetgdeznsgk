@@ -1,6 +1,10 @@
 ### Buenos díaaas
 
-I'm Emiliano Guerra, and whether it's through computers or screenwriting, i'm always trying to stir something in people's guts.
+I'm Emiliano Guerra, and whether it's through computers or film, i'm always trying to stir something in people's guts.
+
+## Game Engines
+![Godot](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/godot-game-engine-icon.png)
+![Unity](https://img.icons8.com/?size=50&id=P08kExl7rixR&format=png&color=000000)
 
 
 ## Programming Languages
@@ -9,6 +13,9 @@ I'm Emiliano Guerra, and whether it's through computers or screenwriting, i'm al
 ![C#](https://img.icons8.com/?size=50&id=55251&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
 ![GDScript](https://img.icons8.com/?size=50&id=UGrLCnKJf6Px&format=png&color=000000)
+![Bash](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
+
+
 <!--
 **soetgdeznsgk/soetgdeznsgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
