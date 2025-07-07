@@ -4,15 +4,18 @@ I'm Emiliano Guerra, and whether it's through computers or film, i'm always tryi
 
 ## What projects have i worked on?
 
-<!-- Eliot Alderson + profile visits counter -->
 <div id="image-table" align="center">
     <table>
         <tr>
             <td style="padding:10px">
-                <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c"/>
+                <div class= "center">
+                <a href="https://gugulplex.itch.io/cherenkov"> Cherenkov 
+                </a> 
+                </div> <br>
+                    Lead game design, Lead programming
             </td>
             <td style="padding:10px">
-                <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat"/>
+                <img src="cherenkov-gif.gif"/>
             </td>
         </tr>
     </table>
