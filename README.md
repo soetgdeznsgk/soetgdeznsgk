@@ -2,10 +2,25 @@
 
 I'm Emiliano Guerra, and whether it's through computers or film, i'm always trying to stir something in people's guts.
 
-## Game Engines
-![Godot](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/godot-game-engine-icon.png)
-![Unity](https://img.icons8.com/?size=50&id=P08kExl7rixR&format=png&color=000000)
+## What projects have i worked on?
 
+<!-- Eliot Alderson + profile visits counter -->
+<div id="image-table" align="center">
+    <table>
+        <tr>
+            <td style="padding:10px">
+                <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c"/>
+            </td>
+            <td style="padding:10px">
+                <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+## Game Engines
+![Unity](https://img.icons8.com/?size=50&id=P08kExl7rixR&format=png&color=000000)
+<img src="godot-game-engine-icon.png" width="50"/>
 
 ## Programming Languages
 ![Python](https://img.icons8.com/color/50/python--v1.png)
