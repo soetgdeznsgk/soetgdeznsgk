@@ -1,5 +1,14 @@
-## Hi there 👋
+### Buenos díaaas
 
+I'm Emiliano Guerra, and whether it's through computers or screenwriting, i'm always trying to stir something in people's guts.
+
+
+## Programming Languages
+![Python](https://img.icons8.com/color/50/python--v1.png)
+![C](https://img.icons8.com/?size=50&id=40670&format=png&color=000000)
+![C#](https://img.icons8.com/?size=50&id=55251&format=png&color=000000)
+![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
+![GDScript](https://img.icons8.com/?size=50&id=UGrLCnKJf6Px&format=png&color=000000)
 <!--
 **soetgdeznsgk/soetgdeznsgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
