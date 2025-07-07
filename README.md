@@ -2,7 +2,7 @@
 
 I'm Emiliano Guerra, and whether it's through computers or film, i'm always trying to stir something in people's guts.
 
-## What projects have i worked on?
+## What projects have i worked on as an engineer?
 
 <div id="image-table" align="center">
     <table>
@@ -12,7 +12,21 @@ I'm Emiliano Guerra, and whether it's through computers or film, i'm always tryi
                 <a href="https://gugulplex.itch.io/cherenkov"> Cherenkov 
                 </a> 
                 </div> <br>
-                    Lead game design, Lead programming
+                    General design, Gameplay, <br> 
+                    Environment scripting and enemy A.I. 
+            </td>
+            <td style="padding:10px">
+                <img src="cherenkov-gif.gif"/>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
+                <div class="center">
+                <a href="https://theyippies.itch.io/gem-frenzy" Gem Frenzy
+                </a>
+                </div> <br>
+                    General design, Gameplay, <br> 
+                    Environment scripting and enemy A.I. 
             </td>
             <td style="padding:10px">
                 <img src="cherenkov-gif.gif"/>
