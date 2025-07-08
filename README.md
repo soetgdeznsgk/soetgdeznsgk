@@ -64,6 +64,9 @@ when faced with low-level software development or 3D math. 😉
 ![GDScript](https://img.icons8.com/?size=50&id=UGrLCnKJf6Px&format=png&color=000000)
 ![Bash](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
 
+## What i'm looking for at the moment
+I'm looking for internships in videogame development companies. <br>
+If that doesn't work out, i'm also looking for a semester abroad in Game Development-oriented schools or degrees.
 <!--
 **soetgdeznsgk/soetgdeznsgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
