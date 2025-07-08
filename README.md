@@ -26,7 +26,7 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
                 <a href="https://theyippies.itch.io/gem-frenzy"> Gem Frenzy
                 </a>
                 </div> <br>
-                    Environment scripting, Gameplay and UI <br>
+                    Environment scripting, Gameplay and UI. <br>
             </td>
             <td style="padding:10px">
                 <img src="gemfrenzy-gif.gif" width="300" height="200"/>
@@ -35,10 +35,10 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
         <tr>
             <td style="padding:10px">
                 <div class="center">
-                <a href="https://theyippies.itch.io/gem-frenzy"> The Fat Cat Fest
+                <a href="https://store.steampowered.com/app/3259080/The_Fat_Cat_Fest/"> The Fat Cat Fest
                 </a>
                 </div> <br>
-                    UI, enemy A.I. and French localization <br>
+                    UI, enemy A.I. and French localization. <br>
             </td>
             <td style="padding:10px">
                 <img src="fcf-gif.gif" width="300" height="200"/>
@@ -54,6 +54,8 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
 As you might suspect, i'm big on artistic expression, however i'm also a huge math nerd so you bet i can hold my own
 when faced with low-level software development or 3D math. 😉
 <br>
+
+
 ## My cup of tea
 ![C](https://img.icons8.com/?size=50&id=40670&format=png&color=000000)
 ![C#](https://img.icons8.com/?size=50&id=55251&format=png&color=000000)
@@ -61,10 +63,6 @@ when faced with low-level software development or 3D math. 😉
 ![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
 ![GDScript](https://img.icons8.com/?size=50&id=UGrLCnKJf6Px&format=png&color=000000)
 ![Bash](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
---
-## Other credits in visual arts
-- Third Assistant Director in [The Kings of The World](https://www.youtube.com/watch?v=9Rff5RbkHRo)
-- Fourth Assistant Director in [Birds of Passage](https://www.youtube.com/watch?v=QV0uWf72ZQw)
 
 <!--
 **soetgdeznsgk/soetgdeznsgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
