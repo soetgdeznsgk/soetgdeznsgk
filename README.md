@@ -1,6 +1,6 @@
 ### Buenos díaaas
 
-I'm Emiliano Guerra, and whether it's through computers or film, i'm always trying to stir something in people's guts.
+I'm Emiliano Guerra (he/him), and whether it's through computers or film, i'm always trying to stir something in people's guts.
 
 ## What projects have i worked on as an engineer?
 
@@ -26,7 +26,7 @@ I'm Emiliano Guerra, and whether it's through computers or film, i'm always tryi
                 <a href="https://theyippies.itch.io/gem-frenzy"> Gem Frenzy
                 </a>
                 </div> <br>
-                    Environment scripting, Gameplay, UI <br>
+                    Environment scripting, Gameplay and UI <br>
             </td>
             <td style="padding:10px">
                 <img src="gemfrenzy-gif.gif" width="300" height="200"/>
@@ -38,26 +38,32 @@ I'm Emiliano Guerra, and whether it's through computers or film, i'm always tryi
                 <a href="https://theyippies.itch.io/gem-frenzy"> The Fat Cat Fest
                 </a>
                 </div> <br>
-                    Environment scripting, Gameplay, UI <br>
+                    UI, enemy A.I. and French localization <br>
             </td>
             <td style="padding:10px">
-                <img src="gemfrenzy-gif.gif" width="300" height="200"/>
+                <img src="fcf-gif.gif" width="300" height="200"/>
             </td>
         </tr>
     </table>
 </div>
 
-## Game Engines
+## Game Engines i've used
 ![Unity](https://img.icons8.com/?size=50&id=P08kExl7rixR&format=png&color=000000)
 <img src="godot-game-engine-icon.png" width="50"/>
 
-## Programming Languages
+As you might suspect, i'm big on artistic expression, however i'm also a huge math nerd so you bet i can hold my own
+when faced with low-level software development or 3D math. 😉
+
+
+## Programming Languages i'm comfortable with
 ![Python](https://img.icons8.com/color/50/python--v1.png)
 ![C](https://img.icons8.com/?size=50&id=40670&format=png&color=000000)
 ![C#](https://img.icons8.com/?size=50&id=55251&format=png&color=000000)
+![Assembly (intel and AT&T)](https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
 ![GDScript](https://img.icons8.com/?size=50&id=UGrLCnKJf6Px&format=png&color=000000)
 ![Bash](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
+
 
 
 <!--
