@@ -1,8 +1,8 @@
-### Buenos díaaas
+# Emiliano Guerra
 
-I'm Emiliano Guerra (he/him), and whether it's through computers or film, i'm always trying to stir something in people's guts.
+Whether it's through software or film, i'm <i>always</i> trying to stir something in people's minds.
 
-## What projects have i worked on as an engineer?
+## What I've done
 
 <div id="image-table" align="center">
     <table>
@@ -47,15 +47,15 @@ I'm Emiliano Guerra (he/him), and whether it's through computers or film, i'm al
     </table>
 </div>
 
-## Game Engines i've used
+## Game Engines I've used
 ![Unity](https://img.icons8.com/?size=50&id=P08kExl7rixR&format=png&color=000000)
 <img src="godot-game-engine-icon.png" width="50"/>
-
+<
 As you might suspect, i'm big on artistic expression, however i'm also a huge math nerd so you bet i can hold my own
 when faced with low-level software development or 3D math. 😉
 
 
-## Programming Languages i'm comfortable with
+## My cup of tea
 ![Python](https://img.icons8.com/color/50/python--v1.png)
 ![C](https://img.icons8.com/?size=50&id=40670&format=png&color=000000)
 ![C#](https://img.icons8.com/?size=50&id=55251&format=png&color=000000)
@@ -64,7 +64,9 @@ when faced with low-level software development or 3D math. 😉
 ![GDScript](https://img.icons8.com/?size=50&id=UGrLCnKJf6Px&format=png&color=000000)
 ![Bash](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
 
-
+## Other credits in visual arts
+- Third Assistant Director in [The Kings of The World](https://www.youtube.com/watch?v=9Rff5RbkHRo)
+- Fourth Assistant Director in [Birds of Passage](https://www.youtube.com/watch?v=QV0uWf72ZQw)
 
 <!--
 **soetgdeznsgk/soetgdeznsgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
