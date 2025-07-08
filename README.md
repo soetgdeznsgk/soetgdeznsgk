@@ -61,7 +61,7 @@ when faced with low-level software development or 3D math. 😉
 ![C#](https://img.icons8.com/?size=50&id=55251&format=png&color=000000)
 ![Assembly (intel and AT&T)](https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
-![GDScript](https://img.icons8.com/?size=50&id=UGrLCnKJf6Px&format=png&color=000000)
+<img src="godot-game-engine-icon.png" width="45"/>
 ![Bash](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
 
 ## What i'm looking for at the moment
