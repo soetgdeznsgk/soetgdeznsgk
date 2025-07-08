@@ -50,20 +50,18 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
 ## Game Engines I've used
 ![Unity](https://img.icons8.com/?size=50&id=P08kExl7rixR&format=png&color=000000)
 <img src="godot-game-engine-icon.png" width="50"/>
-<
+<br>
 As you might suspect, i'm big on artistic expression, however i'm also a huge math nerd so you bet i can hold my own
 when faced with low-level software development or 3D math. 😉
-
-
+<br>
 ## My cup of tea
-![Python](https://img.icons8.com/color/50/python--v1.png)
 ![C](https://img.icons8.com/?size=50&id=40670&format=png&color=000000)
 ![C#](https://img.icons8.com/?size=50&id=55251&format=png&color=000000)
 ![Assembly (intel and AT&T)](https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
 ![GDScript](https://img.icons8.com/?size=50&id=UGrLCnKJf6Px&format=png&color=000000)
 ![Bash](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
-
+--
 ## Other credits in visual arts
 - Third Assistant Director in [The Kings of The World](https://www.youtube.com/watch?v=9Rff5RbkHRo)
 - Fourth Assistant Director in [Birds of Passage](https://www.youtube.com/watch?v=QV0uWf72ZQw)
