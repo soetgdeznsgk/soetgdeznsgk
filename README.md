@@ -67,6 +67,10 @@ when faced with low-level software development or 3D math. 😉
 ## What i'm looking for at the moment
 I'm looking for internships in videogame development companies. <br>
 If that doesn't work out, i'm also looking for a semester abroad in Game Development-oriented schools or degrees.
+
+## Other projects
+- [Visual arts.](https://www.youtube.com/playlist?list=PLwHdQa98PnrLROTGhKsHkvT6TRiHCENQS)
+- [Screenwriting.](https://github.com/soetgdeznsgk/Guion-de-Ficcion)
 <!--
 **soetgdeznsgk/soetgdeznsgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
