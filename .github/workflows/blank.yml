@@ -36,7 +36,7 @@ jobs:
           echo test, and deploy your project.
           
       - name: Credly Badges
-        uses: mikejoh/credly-badges@0.4.1
+        uses: mikejoh/credly-badges
         with:
           # Credly username
           CREDLY_USERNAME: emiliano-guerra-gallego # optional, default is ${{ github.actor }}
