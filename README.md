@@ -63,6 +63,8 @@ when faced with low-level software development or 3D math. 😉
 ![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
 <img src="godot-game-engine-icon.png" width="45"/>
 ![Bash](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## What i'm looking for at the moment
 I'm looking for internships in videogame development companies. <br>
