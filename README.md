@@ -44,6 +44,20 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
                 <img src="fcf-gif.gif" width="300" height="200"/>
             </td>
         </tr>
+         <tr>
+            <td style="padding:10px">
+                <div class="center">
+                <a href="https://store.steampowered.com/app/1935330/SOPA__Tale_of_the_Stolen_Potato/"> Sopa: Tale of the Stolen Potato
+                </a>
+                </div> <br>
+                    Gameplay team intern. <br>
+                    Character programming via Unity Adventure Creator,<br> 
+                    QA, French localization support.<br>
+            </td>
+            <td style="padding:10px">
+                <img src="SOPA.gif" width="300" height="200"/>
+            </td>
+        </tr>
     </table>
 </div>
 
