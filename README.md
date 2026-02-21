@@ -67,8 +67,7 @@ when faced with low-level software development or 3D math. 😉
 <!--END_SECTION:badges-->
 
 ## What i'm looking for at the moment
-I'm looking for internships in videogame development companies. <br>
-If that doesn't work out, i'm also looking for a semester abroad in Game Development-oriented schools or degrees.
+I'm an undergraduate student as well as a developer for @StudioBando, right now i'm looking for Game Design learning opportunities.<br>
 
 ## Other projects
 - [Visual arts.](https://www.youtube.com/playlist?list=PLwHdQa98PnrLROTGhKsHkvT6TRiHCENQS)
