@@ -52,7 +52,7 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
                 </div> <br>
                     Gameplay team intern. <br>
                     Character programming via Unity Adventure Creator,<br> 
-                    QA, French localization support.<br>
+                    QA, French localization support, Linux porting.<br>
             </td>
             <td style="padding:10px">
                 <img src="SOPA.gif" width="300" height="200"/>
