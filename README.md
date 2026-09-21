@@ -66,7 +66,7 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
 ![Unity](https://img.icons8.com/?size=50&id=P08kExl7rixR&format=png&color=000000)
 <img src="godot-game-engine-icon.png" width="50"/>
 <br>
-I'm big on artistic experimentation, however i'm also a huge math nerd so you bet i can hold my own
+I'm big on artistic experimentation, however i'm also a huge nerd so you bet i can hold my own
 when faced with low-level software development or 3D math. 😉
 <br>
 
