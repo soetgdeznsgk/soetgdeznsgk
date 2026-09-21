@@ -50,9 +50,10 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
                 <a href="https://store.steampowered.com/app/1935330/SOPA__Tale_of_the_Stolen_Potato/"> Sopa: Tale of the Stolen Potato
                 </a>
                 </div> <br>
-                    Gameplay team intern. <br>
+                    Developer Independent Consultant. <br>
                     Character programming via Unity Adventure Creator,<br> 
-                    QA, French localization support, Linux porting.<br>
+                    QA, French localization support, Linux porting<br>
+                    Optimization and pipeline programming.<br>
             </td>
             <td style="padding:10px">
                 <img src="SOPA.gif" width="300" height="200"/>
@@ -65,7 +66,7 @@ Whether it's through software or film, i'm <i>always</i> trying to stir somethin
 ![Unity](https://img.icons8.com/?size=50&id=P08kExl7rixR&format=png&color=000000)
 <img src="godot-game-engine-icon.png" width="50"/>
 <br>
-As you might suspect, i'm big on artistic expression, however i'm also a huge math nerd so you bet i can hold my own
+I'm big on artistic experimentation, however i'm also a huge math nerd so you bet i can hold my own
 when faced with low-level software development or 3D math. 😉
 <br>
 
